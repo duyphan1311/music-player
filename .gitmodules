@@ -1,0 +1,3 @@
+[submodule "music-player"]
+	path = music-player
+	url = https://github.com/duyphan1311/music-player.git
