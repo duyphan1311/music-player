@@ -42,8 +42,8 @@ const app = {
         {
             name: 'BadHabits',
             singer: 'EdSheeran',
-            path: './Assets/BadHabit.mp3',
-            image: './Assets/iBadHabit.jpg'
+            path: 'assets/BadHabit.mp3',
+            image: 'assets/iBadHabit.jpg'
 
         },
         {
